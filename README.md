@@ -4,7 +4,6 @@ A JavaScript NES emulator.
 
 Forked and packaged for another project.
 
-
 ## Usage
 
 ```javascript
