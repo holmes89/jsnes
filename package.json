@@ -10,7 +10,7 @@
     "url": "git://github.com/holmes89/jsnes.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/@holmes89"
   },
   "license": "Apache-2.0",
   "scripts": {
