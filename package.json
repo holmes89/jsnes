@@ -1,5 +1,5 @@
 {
-  "name": "holmes89-jsnes",
+  "name": "@holmes89/jsnes",
   "version": "1.2.1",
   "description": "A JavaScript NES emulator",
   "homepage": "https://github.com/holmes89/jsnes",
