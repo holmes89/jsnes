@@ -13,9 +13,8 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '12.x'
-      - run: yarn
-      - run: yarn build
-      - run: yarn test
+      - run: npm install
+      - run: npm test
       - uses: actions/setup-node@v2
         with:
           registry-url: 'https://npm.pkg.github.com'
